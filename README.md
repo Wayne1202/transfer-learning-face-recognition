@@ -1,6 +1,6 @@
-# Face Recognition with Face detection via MTCNN and Transfer Learning via EfficientNet
+# Face Detection with MTCNN and Face Recognition with CNN & Transfer Learning via VGG19
 
-This repository focuses on implementation of deep neural network, CNN and other neural network achitecture such as EfficientNet and InceptionNet.
+This repository focuses on implementation of various neural network architecture on face recognition such as CNN and pre-build model such as VGG19.
 
 ## Folder Structure
 - Models: All the models are saved in this folder with their weights.
@@ -35,12 +35,13 @@ CNN
 > valid_accuracy = 72%
 > test_accuracy = 72%
 
-EfficientNet
-> train_accuracy = 92%
-> valid_accuracy = 72%
-> test_accuracy = 75%
+VGG19
+> train_accuracy = 9%
+> valid_accuracy = 10%
+> test_accuracy = 9%
 
 ## Future Improvements
+- Improve performance of VGG19
 - Add regularisation, improve test accuracy.
 - Implement Siamese Network.
 
