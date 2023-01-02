@@ -31,9 +31,9 @@ In this [notebook](https://github.com/Wayne1202/transfer-learning-face-recogniti
 ## Result
 
 CNN
-> train_accuracy = 89%
-> valid_accuracy = 63%
-> test_accuracy = 65%
+> train_accuracy = 99%
+> valid_accuracy = 72%
+> test_accuracy = 72%
 
 EfficientNet
 > train_accuracy = 92%
