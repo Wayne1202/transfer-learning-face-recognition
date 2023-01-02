@@ -40,6 +40,9 @@ EfficientNet
 > valid_accuracy = 72%
 > test_accuracy = 75%
 
+## Future Improvements
+- Add regularisation, improve test accuracy.
+- Implement Siamese Network.
 
 
 
